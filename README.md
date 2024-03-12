@@ -10,8 +10,7 @@ This project is a simple yet powerful Password Generator web application designe
 
 ## Technologies Used
 - HTML5
-- CSS3
-- Vanilla JavaScript
+- JavaScript
 
 ## Getting Started
 To use this password generator, simply clone this repository to your local machine. Open the `index.html` file in any modern web browser to start generating passwords.
