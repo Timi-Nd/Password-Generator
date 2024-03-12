@@ -1,0 +1,40 @@
+/** Password Generator Version 1.0
+    Programmer: Timi Ndubuisi**/
+    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+    <style rel="stylesheet" href="style.css"></style>
+</head>
+<body>
+    <h1>PASSWORD GENERATOR</h1>
+    <div>
+        <label for="length">Input password length:</label>
+        <input type="number" min="8" max="32" id="length">
+    </div>
+    <br>
+    <div>
+        <input type="checkbox" id="upperCase" name="options">
+        <label for="upperCase">Include Uppercase Letters</label><br>
+
+        <input type="checkbox" id="lowerCase" name="options">
+        <label for="lowerCase">Include lowerCase Letters</label><br>
+
+        <input type="checkbox" id="number" name="option">
+        <label for="number">Include number characters</label><br>
+
+        <input type="checkbox" id="symbol" name="option">
+        <label for="symbol">Include symbol characters</label>
+    </div>
+    <br>
+    <div>
+        <button onclick="generatePassword()">Generate</button>
+    </div>
+
+    <p id="passwordResult"></p>
+    <script src="index.js"></script>
+</body>
+</html>
