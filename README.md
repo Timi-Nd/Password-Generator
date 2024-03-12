@@ -1,7 +1,7 @@
 # Password Generator Version 1.0
 
 ## Introduction
-This project is a simple yet powerful Password Generator web application designed to create secure passwords based on user-selected criteria. This version is the starting point of an evolving project aimed at exploring web development fundamentals including HTML, CSS, and JavaScript.
+This project is a simple Password Generator web application designed to create secure passwords based on user-selected criteria. This version is the starting point of an evolving project aimed at exploring web development fundamentals including HTML, CSS, and JavaScript.
 
 ## Features
 - **Customizable Password Length**: Users can specify the desired length of the generated password (between 8 and 32 characters).
