@@ -17,7 +17,7 @@ This project is a simple yet powerful Password Generator web application designe
 To use this password generator, simply clone this repository to your local machine. Open the `index.html` file in any modern web browser to start generating passwords.
 
 ```bash
-git clone https://github.com/Timi-Nd/Password-Generator
+git clone https://github.com/Timi-Nd/Password-Generator.git
 cd password-generator
 open index.html
 ```
