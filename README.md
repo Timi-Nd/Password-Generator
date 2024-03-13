@@ -18,7 +18,7 @@ To use this password generator, simply clone this repository to your local machi
 ```bash
 git clone https://github.com/Timi-Nd/Password-Generator.git
 cd password-generator
-open index.html
+start index.html
 ```
 
 ## Usage
