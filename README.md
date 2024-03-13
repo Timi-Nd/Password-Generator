@@ -13,7 +13,7 @@ This project is a simple Password Generator web application designed to create s
 - JavaScript
 
 ## Getting Started
-To use this password generator, simply clone this repository to your local machine. Open the `index.html` file in any modern web browser to start generating passwords.
+To use this password generator, simply clone this repository to your local machine. Open the `html.html` file in any modern web browser to start generating passwords.
 
 ```bash
 git clone https://github.com/Timi-Nd/Password-Generator.git
